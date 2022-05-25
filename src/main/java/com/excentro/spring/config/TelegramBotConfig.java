@@ -1,4 +1,4 @@
-package com.github.unafraid.spring.config;
+package com.excentro.spring.config;
 
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;

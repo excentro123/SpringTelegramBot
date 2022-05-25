@@ -1,4 +1,4 @@
-package com.github.unafraid.spring.bot;
+package com.excentro.spring.bot;
 
 import java.util.Map;
 

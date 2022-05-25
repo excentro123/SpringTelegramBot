@@ -1,6 +1,6 @@
-package com.github.unafraid.spring.controllers;
+package com.excentro.spring.controllers;
 
-import com.github.unafraid.spring.services.TelegramBotService;
+import com.excentro.spring.services.TelegramBotService;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

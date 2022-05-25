@@ -1,13 +1,13 @@
-package com.github.unafraid.spring.services;
+package com.excentro.spring.services;
 
 import java.net.InetSocketAddress;
 import java.net.Proxy;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.github.unafraid.spring.bot.AccessLevelValidator;
-import com.github.unafraid.spring.bot.TelegramWebHookBot;
-import com.github.unafraid.spring.config.TelegramBotConfig;
+import com.excentro.spring.bot.AccessLevelValidator;
+import com.excentro.spring.bot.TelegramWebHookBot;
+import com.excentro.spring.config.TelegramBotConfig;
 import com.github.unafraid.telegrambot.handlers.ICommandHandler;
 import com.github.unafraid.telegrambot.handlers.ITelegramHandler;
 import org.springframework.beans.factory.ObjectProvider;

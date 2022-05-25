@@ -1,4 +1,4 @@
-package com.github.unafraid.spring.bot.handlers.impl;
+package com.excentro.spring.bot.handlers.impl;
 
 import java.util.List;
 
